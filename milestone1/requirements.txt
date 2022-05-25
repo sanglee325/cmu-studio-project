@@ -14,3 +14,8 @@ torchvision==0.8.2+cu110
 # face recognition sample
 cmake
 face-recognition
+
+# face recognition alternate
+pandas
+facenet-pytorch
+mmcv
