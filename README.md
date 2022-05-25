@@ -13,7 +13,6 @@
 
 ### Part B: Jestson Nano Orientation (05.26.22 ~ 06.02.22)
 
-* [X] Connecting Jetson Nano to WIFI.
-
 * Setup Jetson Nano
+    * [X] Connecting Jetson Nano to WIFI.
     * [ ] NVIDIA DLI course: [https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about](https://courses.nvidia.com/courses/course-v1:DLI+S-RX-02+V2/about)
