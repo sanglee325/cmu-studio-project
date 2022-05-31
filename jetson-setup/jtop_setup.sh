@@ -1,1 +1,0 @@
-sudo -H pip install -U jetson-stats
