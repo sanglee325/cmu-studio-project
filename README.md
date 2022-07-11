@@ -41,3 +41,15 @@
 * Transfer Learning
     * [X] Model: 2D ResNet for Action Recognition
     * [X] Transfer Learning with TAO for action recognition [(link)](https://developer.nvidia.com/blog/developing-and-deploying-your-custom-action-recognition-application-without-any-ai-expertise-using-tao-and-deepstream/)
+
+## Milestone 3: Final Presentation and Demo
+
+### Convert Torch to TensorRT
+
+* Finetune model using PyTorch [https://github.com/kenshohara/3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)
+	* Select sports related classes from UCF101
+* Convert PyTorch model to TensorRT [https://github.com/NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt)
+* Run model on Jetson Nano.
+* Test demo model on Jetson Nano.
+* Connect model with OpenSearch.
+
